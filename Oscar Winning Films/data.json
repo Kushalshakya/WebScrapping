@@ -1,0 +1,524 @@
+[
+    {
+        "Year": 2015,
+        "Film Title": "Spotlight",
+        "Film Nominations": 6,
+        "Film Awards": 2
+    },
+    {
+        "Year": 2015,
+        "Film Title": "Mad Max: Fury Road",
+        "Film Nominations": 10,
+        "Film Awards": 6
+    },
+    {
+        "Year": 2015,
+        "Film Title": "The Revenant",
+        "Film Nominations": 12,
+        "Film Awards": 3
+    },
+    {
+        "Year": 2015,
+        "Film Title": "Bridge of Spies",
+        "Film Nominations": 6,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2015,
+        "Film Title": "The Big Short",
+        "Film Nominations": 5,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2015,
+        "Film Title": "The Danish Girl",
+        "Film Nominations": 4,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2015,
+        "Film Title": "Room",
+        "Film Nominations": 4,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2015,
+        "Film Title": "Ex Machina",
+        "Film Nominations": 2,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2015,
+        "Film Title": "The Hateful Eight",
+        "Film Nominations": 2,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2015,
+        "Film Title": "Inside Out",
+        "Film Nominations": 2,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2015,
+        "Film Title": "Amy",
+        "Film Nominations": 1,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2015,
+        "Film Title": "Bear Story",
+        "Film Nominations": 1,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2015,
+        "Film Title": "A Girl in the River: The Price of Forgiveness",
+        "Film Nominations": 1,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2015,
+        "Film Title": "Son of Saul",
+        "Film Nominations": 1,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2015,
+        "Film Title": "Spectre",
+        "Film Nominations": 1,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2015,
+        "Film Title": "Stutterer",
+        "Film Nominations": 1,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2014,
+        "Film Title": "Birdman",
+        "Film Nominations": 9,
+        "Film Awards": 4
+    },
+    {
+        "Year": 2014,
+        "Film Title": "The Grand Budapest Hotel",
+        "Film Nominations": 9,
+        "Film Awards": 4
+    },
+    {
+        "Year": 2014,
+        "Film Title": "Whiplash",
+        "Film Nominations": 5,
+        "Film Awards": 3
+    },
+    {
+        "Year": 2014,
+        "Film Title": "The Imitation Game",
+        "Film Nominations": 8,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2014,
+        "Film Title": "American Sniper",
+        "Film Nominations": 6,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2014,
+        "Film Title": "Boyhood",
+        "Film Nominations": 6,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2014,
+        "Film Title": "Interstellar",
+        "Film Nominations": 5,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2014,
+        "Film Title": "The Theory of Everything",
+        "Film Nominations": 5,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2014,
+        "Film Title": "Ida",
+        "Film Nominations": 2,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2014,
+        "Film Title": "Selma",
+        "Film Nominations": 2,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2014,
+        "Film Title": "Citizenfour",
+        "Film Nominations": 1,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2014,
+        "Film Title": "Big Hero 6",
+        "Film Nominations": 1,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2014,
+        "Film Title": "Crisis Hotline: Veterans Press 1",
+        "Film Nominations": 1,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2014,
+        "Film Title": "The Phone Call",
+        "Film Nominations": 1,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2014,
+        "Film Title": "Still Alice",
+        "Film Nominations": 1,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2014,
+        "Film Title": "Feast",
+        "Film Nominations": 1,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2013,
+        "Film Title": "12 Years a Slave",
+        "Film Nominations": 9,
+        "Film Awards": 3
+    },
+    {
+        "Year": 2013,
+        "Film Title": "Gravity",
+        "Film Nominations": 10,
+        "Film Awards": 7
+    },
+    {
+        "Year": 2013,
+        "Film Title": "Dallas Buyers Club",
+        "Film Nominations": 6,
+        "Film Awards": 3
+    },
+    {
+        "Year": 2013,
+        "Film Title": "Frozen",
+        "Film Nominations": 2,
+        "Film Awards": 2
+    },
+    {
+        "Year": 2013,
+        "Film Title": "The Great Gatsby",
+        "Film Nominations": 2,
+        "Film Awards": 2
+    },
+    {
+        "Year": 2013,
+        "Film Title": "Her",
+        "Film Nominations": 5,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2013,
+        "Film Title": "Blue Jasmine",
+        "Film Nominations": 3,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2013,
+        "Film Title": "Mr Hublot",
+        "Film Nominations": 1,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2013,
+        "Film Title": "The Lady in Number 6: Music Saved My Life",
+        "Film Nominations": 1,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2013,
+        "Film Title": "Helium",
+        "Film Nominations": 1,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2013,
+        "Film Title": "The Great Beauty",
+        "Film Nominations": 1,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2013,
+        "Film Title": "20 Feet from Stardom",
+        "Film Nominations": 1,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2012,
+        "Film Title": "Argo",
+        "Film Nominations": 7,
+        "Film Awards": 3
+    },
+    {
+        "Year": 2012,
+        "Film Title": "Life of Pi",
+        "Film Nominations": 11,
+        "Film Awards": 4
+    },
+    {
+        "Year": 2012,
+        "Film Title": "Les Mis\u00e9rables",
+        "Film Nominations": 8,
+        "Film Awards": 3
+    },
+    {
+        "Year": 2012,
+        "Film Title": "Lincoln",
+        "Film Nominations": 12,
+        "Film Awards": 2
+    },
+    {
+        "Year": 2012,
+        "Film Title": "Django Unchained",
+        "Film Nominations": 5,
+        "Film Awards": 2
+    },
+    {
+        "Year": 2012,
+        "Film Title": "Skyfall",
+        "Film Nominations": 5,
+        "Film Awards": 2
+    },
+    {
+        "Year": 2012,
+        "Film Title": "Silver Linings Playbook",
+        "Film Nominations": 8,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2012,
+        "Film Title": "Zero Dark Thirty",
+        "Film Nominations": 5,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2012,
+        "Film Title": "Amour",
+        "Film Nominations": 5,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2012,
+        "Film Title": "Anna Karenina",
+        "Film Nominations": 4,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2012,
+        "Film Title": "Paperman",
+        "Film Nominations": 1,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2012,
+        "Film Title": "Brave",
+        "Film Nominations": 1,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2012,
+        "Film Title": "Searching for Sugar Man",
+        "Film Nominations": 1,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2012,
+        "Film Title": "Inocente",
+        "Film Nominations": 1,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2012,
+        "Film Title": "Curfew",
+        "Film Nominations": 1,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2011,
+        "Film Title": "The Artist",
+        "Film Nominations": 10,
+        "Film Awards": 5
+    },
+    {
+        "Year": 2011,
+        "Film Title": "Hugo",
+        "Film Nominations": 11,
+        "Film Awards": 5
+    },
+    {
+        "Year": 2011,
+        "Film Title": "The Iron Lady",
+        "Film Nominations": 2,
+        "Film Awards": 2
+    },
+    {
+        "Year": 2011,
+        "Film Title": "The Descendants",
+        "Film Nominations": 5,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2011,
+        "Film Title": "The Girl with the Dragon Tattoo",
+        "Film Nominations": 5,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2011,
+        "Film Title": "Midnight in Paris",
+        "Film Nominations": 4,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2011,
+        "Film Title": "The Help",
+        "Film Nominations": 4,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2011,
+        "Film Title": "A Separation",
+        "Film Nominations": 2,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2011,
+        "Film Title": "The Fantastic Flying Books of Mr. Morris Lessmore",
+        "Film Nominations": 1,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2011,
+        "Film Title": "The Shore",
+        "Film Nominations": 1,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2011,
+        "Film Title": "Undefeated",
+        "Film Nominations": 1,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2011,
+        "Film Title": "The Muppets",
+        "Film Nominations": 1,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2011,
+        "Film Title": "Saving Face",
+        "Film Nominations": 1,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2011,
+        "Film Title": "Beginners",
+        "Film Nominations": 1,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2011,
+        "Film Title": "Rango",
+        "Film Nominations": 1,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2010,
+        "Film Title": "The King's Speech",
+        "Film Nominations": 12,
+        "Film Awards": 4
+    },
+    {
+        "Year": 2010,
+        "Film Title": "Inception",
+        "Film Nominations": 8,
+        "Film Awards": 4
+    },
+    {
+        "Year": 2010,
+        "Film Title": "The Social Network",
+        "Film Nominations": 8,
+        "Film Awards": 3
+    },
+    {
+        "Year": 2010,
+        "Film Title": "The Fighter",
+        "Film Nominations": 7,
+        "Film Awards": 2
+    },
+    {
+        "Year": 2010,
+        "Film Title": "Toy Story 3",
+        "Film Nominations": 5,
+        "Film Awards": 2
+    },
+    {
+        "Year": 2010,
+        "Film Title": "Alice in Wonderland",
+        "Film Nominations": 3,
+        "Film Awards": 2
+    },
+    {
+        "Year": 2010,
+        "Film Title": "Black Swan",
+        "Film Nominations": 5,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2010,
+        "Film Title": "In a Better World",
+        "Film Nominations": 1,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2010,
+        "Film Title": "The Lost Thing",
+        "Film Nominations": 1,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2010,
+        "Film Title": "God of Love",
+        "Film Nominations": 1,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2010,
+        "Film Title": "The Wolfman",
+        "Film Nominations": 1,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2010,
+        "Film Title": "Strangers No More",
+        "Film Nominations": 1,
+        "Film Awards": 1
+    },
+    {
+        "Year": 2010,
+        "Film Title": "Inside Job",
+        "Film Nominations": 1,
+        "Film Awards": 1
+    }
+]
